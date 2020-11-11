@@ -23,4 +23,6 @@ legend {
 
 label.error {
     /* Add a style here for your error messages */
+    color: red;
+    font-weight: bold;
 }
